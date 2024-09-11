@@ -1,6 +1,6 @@
 
 
-[![image.png](https://i.postimg.cc/59nmV0Fk/image.png)](https://postimg.cc/0rKSG9np)
+![image.png](https://raw.githubusercontent.com/Abhigyan-Srivastava/E-COMMERCE-DATA-ANALYSIS---AMAZON/main/image.png)
 
 
 # Amazon Sales Data Analysis Project 📊
@@ -18,9 +18,9 @@ enterprise.Find for me Sales-trend -> month wise , year wise , yearly_month wise
     2. Power BI
 ## 📉 Dashboard
 
-[![Dashboard1.png](https://i.postimg.cc/Gp3yq0cT/Dashboard1.png)](https://postimg.cc/Sn5RxvYm)
+![Dashboard1.png](https://raw.githubusercontent.com/Abhigyan-Srivastava/E-COMMERCE-DATA-ANALYSIS---AMAZON/main/Dashboard1.png)
 
-[![Dashboard2.png](https://i.postimg.cc/RVyRqZLC/Dashboard2.png)](https://postimg.cc/vc79NMKC)
+![Dashboard2.png](https://raw.githubusercontent.com/Abhigyan-Srivastava/E-COMMERCE-DATA-ANALYSIS---AMAZON/main/Dashboard2.png)
 
 ## ✔️ Conclusion
 1. 2017 had the highest Revenue at 85.12M, followed by 2019 at 76.12 and 2018 at 20.36M
@@ -32,6 +32,3 @@ enterprise.Find for me Sales-trend -> month wise , year wise , yearly_month wise
 4. The Better Large Canned Shrimp & High Top Dried Mushrooms are the highest selling products in domestic and international markets. 
 
 5. Paracel Gigaplace & Pereras are the top customers who generated the highest revenue
-
-
-
